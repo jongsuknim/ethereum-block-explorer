@@ -11,28 +11,28 @@ etherscan과 같은 기능을 지향하는 ethereum block explorer 프로젝트�
 # 실행
 module 설치
 ```
-	npm install
-	npm link typescript	
+npm install
+npm link typescript	
 ```
 
 build
 ```
-	npm run build
+npm run build
 ```
 
 start
 ```
-	npm run start
+npm run start
 ```
 
 # 테스트
 db-wrapper 모듈 unit-test 
 ```
-	npm run test
+npm run test
 ```
 ethereum-wrapper 모듈 test
 ```
-	npm run start-testmode
+npm run start-testmode
 ```
 
 
